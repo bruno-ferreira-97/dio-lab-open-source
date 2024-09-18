@@ -75,8 +75,15 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 ](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
-    
-    
+
+## Resolução de Problemas [Issues](https://github.com/digitalinnovationone/dio-lab-open-source/issues).
+
+| Tipo | Descrição| 
+|---------------------|-----------------------------------------------------|
+|Relatorio de Bug     |Crie um relatório para nos ajudar a melhorar         |
+|Desafio da Comunidade|Crie uma edição sobre o Desafio proposto à comunidade|
+|Solicitação de recurso|Sugira uma ideia para este repositório              |
+   
 ## Convenção de Commits 
 
 | Tipo de Commit |Descrição                                                            | Exemplo
